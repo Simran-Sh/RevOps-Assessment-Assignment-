@@ -2,7 +2,7 @@
  FloBiz Application | RevOps Assessment Assignment | 24-Hour Submission
 
 Task 1:
-[Internship Project Video Walkthrough]()
+[Internship Project Video Walkthrough](https://youtu.be/5usu2p65NnQ)
 
 Task 2:
 ETL sales data in MS_Excel for a SaaS product:
@@ -13,4 +13,4 @@ ETL sales data in MS_Excel for a SaaS product:
 
 
 Assisgnment Assigned: Sep 22, 2026, 7:27 PM
-Assisgnment Submitted: Sep 23, 2026, 7:00 PM
+Assisgnment Submitted: Sep 23, 2026, 7:20 PM
