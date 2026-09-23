@@ -9,7 +9,7 @@ ETL sales data in MS_Excel for a SaaS product:
 [Excelsheet URL](https://1drv.ms/x/c/fa28793ecc9861f2/IQBuq6w2u0gTTruXwlX4k8LUARKwukkfMCuA9apDVN8C-VE?e=9XpRDt)
 ![Pivot Table](Pivot_table.png)
 ![ RevOps_Assesment](RevOps_Assesmentt.png)
-[ScreenRecordingVideo]()
+[ScreenRecordingVideo](https://youtu.be/786LAuGgZuQ)
 
 
 Assisgnment Assigned: Sep 22, 2026, 7:27 PM
